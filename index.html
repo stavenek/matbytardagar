@@ -142,6 +142,8 @@
     var feed = new Instafeed({
         get: 'tagged',
         tagName: 'foodswap',
+        sortBy: 'random',
+        limit: '4',
         clientId: '569fe321f3934ef4aa0d33acbbe02914'
     });
     feed.run();
