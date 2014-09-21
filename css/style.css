@@ -97,13 +97,17 @@ header {
 	height:169px
 }
 #logo {
+/*
 	display:block;
-/*	background:url(../images/logo.png) 0 0 no-repeat;  */
-        font-size: 40px;
-        font-weight: bold;
+	background:url(../images/logo.png) 0 0 no-repeat;  
 	width:298px;
 	height:79px;
 	text-indent:-9999px
+*/
+        font-size: 40px;
+        font-weight: bold;
+       	float:left;
+	padding:33px 0 0 16px
 }
 #menu {
 	float:right;
