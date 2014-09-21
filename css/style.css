@@ -99,6 +99,8 @@ header {
 #logo {
 	display:block;
 /*	background:url(../images/logo.png) 0 0 no-repeat;  */
+        font-size: 40px;
+        font-weight: bold;
 	width:298px;
 	height:79px;
 	text-indent:-9999px
